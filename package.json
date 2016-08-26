@@ -1,0 +1,24 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "simpel react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostradouglass/completeReactWebDevCourse.git"
+  },
+  "author": "Kelly Douglass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nostradouglass/completeReactWebDevCourse/issues"
+  },
+  "homepage": "https://github.com/nostradouglass/completeReactWebDevCourse#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
